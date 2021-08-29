@@ -1,0 +1,42 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Daniel Rodriguez-Cardenas",
+  "devDesc": "| Engineer | Software developer | Researcher ",
+  "gradientColors": "#956B56, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com//danielrcardenas",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/danielrodriguezcardenas",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/danielrcardenas580/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/daniel-rodriguez-cardenas/",
+      "style": "socialicons"
+    }
+  ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "danielrcardenas580",
+  "instaQuerry": "/?__a=1",
+  "showInstaProfilePic": true,
+  "aboutDev": "I am a freshman computer science PhD. Student. I am an engineer with a pragmatic approach towards the solution of complex engineering problems with the eagerness to use my skills, both technical and managerial, to contribute towards the betterment of company and society.",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "danielrcardenas",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 2
+}
