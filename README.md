@@ -1,8 +1,10 @@
-# [Developer's Portfolio](https://hashirshoaeb.github.io/home)
+# [Developer's Portfolio](https://danielrcardenas.github.io/home)
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)](https://danielrcardenas.github.io/home)
 
-It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: [hashirshoaeb.github.io/home](https://hashirshoaeb.github.io/home).
+It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: [danielrcardenas.github.io/home](https://danielrcardenas.github.io/home).
+
+Thanks to [hashirshoaeb.github.io/home](https://hashirshoaeb.github.io/home) for this template.
 
 ## Table of Contents
 
